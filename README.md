@@ -1,7 +1,7 @@
 <p align="center">
     <img alt="Alligator Logo" src="https://raw.githubusercontent.com/Clivern/Alligator/master/assets/img/logo.png" height="100" />
     <h3 align="center">Alligator</h3>
-    <p align="center">Realtime output for shell commands in golang.</p>
+    <p align="center">A Golang Package Boilerplate.</p>
     <p align="center">
         <a href="https://godoc.org/github.com/clivern/alligator"><img src="https://godoc.org/github.com/clivern/alligator?status.svg"></a>
         <a href="https://travis-ci.org/Clivern/Alligator"><img src="https://travis-ci.org/Clivern/Alligator.svg?branch=master"></a>
